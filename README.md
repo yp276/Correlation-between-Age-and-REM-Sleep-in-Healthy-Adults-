@@ -1,5 +1,5 @@
 # Correlation-between-Age-and-REM-Sleep-in-Healthy-Adults-
-An exploration between age and REM sleep in healthy adults using statistical analysis in R 
+This repository contains files/code for Georgetown HIDS 6004 (Evidence-based Data Analysis in Population Health) Midterm Project. This project explores the relationship between age and REM sleep in healthy adults using statistical analysis in R. 
 
 # Introduction: 
 In this study we have attempted to look into the correlation between age and one of the most unique phase of sleep - rapid-eye movement. The rapid-eye movement phase (REM) is distinguished by muscle relaxation, rapid eye movements, irregular breathing, increased heart rate, and heightened brain activity. REM sleep serves various functions, including memory consolidation, emotional processing, brain maturation, and dream generation. Research conducted by Floyd et al. in a meta-analysis revealed a gradual decline in the proportion of REM sleep by 0.6% per decade from age 19 until the age of 75. Afterward, slight increases were observed in the proportion of REM sleep between the ages of 75 and 85 (Floyd et al.). 
